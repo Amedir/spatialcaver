@@ -4,9 +4,9 @@
   
   <h1 align="center">
     Oi Tudo bem? Eu sou o Everton Gabriel
-    <a href="https://www.linkedin.com/in/everton-gabriel-088474176/ 😃️</a>
+    <a href="https://www.linkedin.com/in/everton-gabriel-088474176/" 😃</a>
   </h1>
-  
+ 
   <p align="center">
     Sou estudante de Análise e desenvolvimento de sistemas
       
